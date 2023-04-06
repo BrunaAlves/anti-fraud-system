@@ -219,6 +219,6 @@ files:
         implementation group: 'org.hibernate', name: 'hibernate-validator', version: '6.1.0.Final'
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/232/stages/1161/implement#comment
+feedback_link: https://hyperskill.org/learn/step/18067#comment
 status: Unchecked
 record: -1
