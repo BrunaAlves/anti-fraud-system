@@ -3,6 +3,16 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
       <module name="Anti-Fraud_System.Anti-Fraud_System-task.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Declaring_a_method-Method_signature.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Declaring_a_method-Syntactically_correct_declarations.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-A_quadratic_equation.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-How_to_decompose_correctly.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-Kate's_math_function.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-Why_decompose_a_program.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Remainder_of_division.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Theory.main" target="11" />
@@ -14,6 +24,11 @@
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Keywords.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Statements.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-The_first_program.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Boys_in_a_sport_class.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Check_the_given_numbers_are_different.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Check_the_sum.main" target="11" />
@@ -32,6 +47,11 @@
       <module name="Anti-Fraud_System.Topics-The_for-loop-Size_of_parts.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_for-loop-Statements.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_main_method-Fixing_errors_in_main.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_main_method-No_main_args.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_main_method-Who_is_the_main.main" target="11" />
       <module name="Anti-Fraud_System.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

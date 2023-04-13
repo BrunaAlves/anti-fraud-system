@@ -5,12 +5,24 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Anti-Fraud System/task" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/How to decompose correctly" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Kate's math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Remainder of division" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
@@ -22,6 +34,11 @@
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The first program" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
             <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in a sport class" />
             <option value="$PROJECT_DIR$/Topics/Relational operators/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
@@ -40,6 +57,11 @@
             <option value="$PROJECT_DIR$/Topics/The for-loop/Size of parts" />
             <option value="$PROJECT_DIR$/Topics/The for-loop/Statements" />
             <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Fixing errors in main" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Topics/The main method/No main args" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Who is the main" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
