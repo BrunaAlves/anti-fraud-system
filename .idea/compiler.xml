@@ -52,6 +52,11 @@
       <module name="Anti-Fraud_System.Topics-The_main_method-No_main_args.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_main_method-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Types_and_variables-Assignments.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Types_and_variables-Incorrect_counter.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Types_and_variables-The_name_of_a_variable.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Types_and_variables-Theory.main" target="11" />
       <module name="Anti-Fraud_System.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
