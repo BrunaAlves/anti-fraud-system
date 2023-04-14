@@ -32,6 +32,9 @@
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Statements.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-The_first_program.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Null_syntax.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Printing_data-Find_a_way.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Printing_data-Stars.main" target="11" />
