@@ -3,6 +3,12 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
       <module name="Anti-Fraud_System.Anti-Fraud_System-task.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-Declarations.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-Equal_arrays.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-Initializations.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-The_last_element_of_an_array.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Array-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Declaring_a_method-Method_signature.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Declaring_a_method-Syntactically_correct_declarations.main" target="11" />

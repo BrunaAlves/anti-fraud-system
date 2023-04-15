@@ -13,6 +13,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Anti-Fraud System/task" />
+            <option value="$PROJECT_DIR$/Topics/Array/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Equal arrays" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Array/The last element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
             <option value="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials" />
             <option value="$PROJECT_DIR$/Topics/Declaring a method/Method signature" />
             <option value="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations" />
