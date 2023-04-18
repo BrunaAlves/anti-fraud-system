@@ -33,6 +33,10 @@
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Right_Rotation.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-A_pair_of_overloaded_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-Print.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-Theory.main" target="11" />
