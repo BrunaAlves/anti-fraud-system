@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -43,6 +43,7 @@
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
