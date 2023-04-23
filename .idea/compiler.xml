@@ -53,6 +53,7 @@
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Unknown_input.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-A_pair_of_overloaded_methods.main" target="11" />
