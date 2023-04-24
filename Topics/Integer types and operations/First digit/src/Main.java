@@ -3,12 +3,7 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        long n = scanner.nextLong();
-        
-
-        long cal = ((n + 1) * n + 2) * n + 3;
-
-        System.out.println(cal);
+        int number = scanner.nextInt();
+        System.out.println(number /= 10);
     }
 }
