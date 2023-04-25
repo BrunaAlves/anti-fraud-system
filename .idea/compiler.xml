@@ -37,8 +37,10 @@
       <module name="Anti-Fraud_System.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Errors_in_programs-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-A_quadratic_equation.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-How_to_decompose_correctly.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-Kate's_math_function.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-Why_decompose_a_program.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
