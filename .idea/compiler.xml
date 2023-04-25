@@ -83,6 +83,10 @@
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Statements.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-The_first_program.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Package-Creating_instances.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Package-Purpose.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Package-Required_input.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Package-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Primitive_and_reference_types-Null_syntax.main" target="11" />
