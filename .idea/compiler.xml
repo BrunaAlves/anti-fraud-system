@@ -48,6 +48,8 @@
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Functional_decomposition-Why_decompose_a_program.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Getters_and_setters-Account.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Getters_and_setters-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Remainder_of_division.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Theory.main" target="11" />
