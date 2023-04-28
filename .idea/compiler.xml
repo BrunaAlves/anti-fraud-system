@@ -85,6 +85,7 @@
       <module name="Anti-Fraud_System.Topics-NPE-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Unknown_input.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-Army.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Objects-Null_or_not.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-What_is_my_age.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-What_is_the_value_of_a_field.main" target="11" />
