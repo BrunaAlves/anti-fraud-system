@@ -84,6 +84,10 @@
       <module name="Anti-Fraud_System.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Objects-Army.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Objects-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Objects-What_is_my_age.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Objects-What_is_the_value_of_a_field.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-A_pair_of_overloaded_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-Print.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Overloading-Theory.main" target="11" />
