@@ -5,7 +5,7 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         int language = scanner.nextInt();
 
-        switch (language) {
+        switch (language){
             case 1:
                 System.out.println("Yes!");
                 break;
