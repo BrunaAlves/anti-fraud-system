@@ -122,6 +122,8 @@
       <module name="Anti-Fraud_System.Topics-Relational_operators-Is_between.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Static_members-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Static_members-Time_constants.main" target="11" />
       <module name="Anti-Fraud_System.Topics-String-_Hello__string.main" target="11" />
       <module name="Anti-Fraud_System.Topics-String-Check_burgs.main" target="11" />
       <module name="Anti-Fraud_System.Topics-String-Comparing_strings.main" target="11" />
