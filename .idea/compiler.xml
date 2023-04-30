@@ -150,6 +150,12 @@
       <module name="Anti-Fraud_System.Topics-The_main_method-No_main_args.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_main_method-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Types_and_variables-Assignments.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Types_and_variables-Incorrect_counter.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
