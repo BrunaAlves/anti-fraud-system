@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/657120/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 30 Apr 2023 11:05:06 UTC
+update_date: Tue, 02 May 2023 08:20:14 UTC
 stages:
 - id: 1161
   step: 18067
@@ -386,16 +386,16 @@ topics:
     theory_id: 8611
   - title: Logic and comparison expressions
     theory_id: 8619
+  - title: Basic INSERT statement
+    theory_id: 9059
+  - title: Basic DELETE statement
+    theory_id: 9075
   - title: The NULL value
     theory_id: 7907
   - title: Special WHERE operators
     theory_id: 10521
   - title: Intro to MySQL
     theory_id: 16662
-  - title: Basic INSERT statement
-    theory_id: 9059
-  - title: Basic DELETE statement
-    theory_id: 9075
   - title: Object-Relational Mapping (ORM)
     theory_id: 8312
   - title: Introduction to JPA
@@ -446,7 +446,7 @@ topics:
   - title: Results ordering
     theory_id: 8627
   - title: Queue
-    theory_id: 20716
+    theory_id: 28474
   - title: Deque
     theory_id: 18635
   - title: Limit and Offset

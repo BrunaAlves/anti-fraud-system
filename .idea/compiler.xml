@@ -22,6 +22,11 @@
       <module name="Anti-Fraud_System.Topics-Comments-Select_all_correct_comments.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Comments-The_forgotten_comments.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Comments-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Conditional_statement-An_output_of_the_code.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Conditional_statement-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Constructor-A_required_part_of_a_class.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Constructor-Account_and_its_owner.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Constructor-Automatically_generated_constructor.main" target="11" />
