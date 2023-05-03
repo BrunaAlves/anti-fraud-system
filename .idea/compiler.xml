@@ -131,6 +131,11 @@
       <module name="Anti-Fraud_System.Topics-Relational_operators-Is_between.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Scanning_the_input-Reading_a_number.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Scanning_the_input-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Accessing_static_members.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Detail_manufacturing.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Theory.main" target="11" />
