@@ -84,6 +84,8 @@
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Integer_types_and_operations-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Interface-Area_of_a_circle.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Interface-Marker_interface.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Interface-Mutable_geometric_shapes.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Interface-Properties_of_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Interface-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Boxes.main" target="11" />
