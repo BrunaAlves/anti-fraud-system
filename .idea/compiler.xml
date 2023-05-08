@@ -65,6 +65,10 @@
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Remainder_of_division.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Theory.main" target="11" />
