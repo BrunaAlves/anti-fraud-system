@@ -61,6 +61,8 @@
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Book.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Choose_a_pair_of_getter_and_setter.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Theory.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Correctly_overridden_methods.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
