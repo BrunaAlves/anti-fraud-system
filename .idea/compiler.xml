@@ -44,6 +44,8 @@
       <module name="Anti-Fraud_System.Topics-Defining_classes-Books.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Defining_classes-Complex_numbers.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Defining_classes-The_keyword.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Defining_classes-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
