@@ -166,6 +166,9 @@
       <module name="Anti-Fraud_System.Topics-Scanning_the_input-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Accessing_static_members.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Static_members-Static_fields.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Static_members-Time_constants.main" target="11" />
       <module name="Anti-Fraud_System.Topics-String-_Hello__string.main" target="11" />
