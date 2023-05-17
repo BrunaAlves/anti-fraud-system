@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -212,6 +212,7 @@
             <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
             <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments (1)" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Incorrect counter" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/The name of a variable" />
