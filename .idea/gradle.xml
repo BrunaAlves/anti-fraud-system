@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -24,6 +24,11 @@
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Sorting numbers" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/A keyword to terminate the loop" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Statement for skipping an iteration" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/What is the output" />
             <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
             <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
             <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
