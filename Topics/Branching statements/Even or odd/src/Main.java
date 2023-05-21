@@ -5,8 +5,8 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 
-        while(number != 0) {
-            if(number % 2 == 0) {
+        while (number != 0) {
+            if (number % 2 == 0) {
                 System.out.println("even");
             } else {
                 System.out.println("odd");
