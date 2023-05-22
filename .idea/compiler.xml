@@ -120,9 +120,11 @@
       <module name="Anti-Fraud_System.Topics-Multiple_constructors-Phone.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Multiple_constructors-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Multiple_constructors-Time.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-NPE-Avoid_NPE.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-NPE-Where_NPE_may_occur.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-Army.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-Null_or_not.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Objects-Theory.main" target="11" />
