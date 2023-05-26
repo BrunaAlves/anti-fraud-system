@@ -1,9 +1,9 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: 012
+- text: 12
 - text: 0
-- text: 000
+- text: 0
 - text: '000111222 '
 files:
 - name: src/Task.java
