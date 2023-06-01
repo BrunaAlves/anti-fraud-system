@@ -25,10 +25,6 @@ stages:
   is_completed: false
 topics:
   0:
-  - title: Write, compile, and run
-    theory_id: 3739
-  - title: JVM, JRE, and JDK
-    theory_id: 3499
   - title: Computer algorithms
     theory_id: 16547
   - title: The big O notation
@@ -39,6 +35,10 @@ topics:
     theory_id: 16927
   - title: Units of information
     theory_id: 6865
+  - title: Write, compile, and run
+    theory_id: 3739
+  - title: JVM, JRE, and JDK
+    theory_id: 3499
   - title: Introduction to Operating systems
     theory_id: 9704
   - title: Command line overview
