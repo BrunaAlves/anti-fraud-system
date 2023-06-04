@@ -111,6 +111,7 @@
       <module name="Anti-Fraud_System.Topics-Interface-Properties_of_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Interface-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Boxes.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Right_Rotation.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />

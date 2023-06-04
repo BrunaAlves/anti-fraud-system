@@ -8,6 +8,7 @@ class Main {
 
         for (int i = 0; i < size; i++) {
             sum += scanner.nextInt();
+
         }
 
         System.out.println(sum);
