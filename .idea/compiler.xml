@@ -75,6 +75,8 @@
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Account.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Book.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Choose_a_pair_of_getter_and_setter.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Getters_and_setters-Complex.main" target="11" />
+      <module name="Anti-Fraud_System.Topics-Getters_and_setters-The_name_of_setter.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Getters_and_setters-Theory.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Correctly_overridden_methods.main" target="11" />
       <module name="Anti-Fraud_System.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
