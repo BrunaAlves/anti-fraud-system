@@ -1,6 +1,6 @@
 <h5 id="description">Description</h5>
 <p>To begin with, let's define the concepts and find out what makes a good anti-fraud system. Consider the procedure of online payment (a transaction):</p>
-<p style="text-align: center;"><img alt="" height="431" name="1 (2).svg" src="https://ucarecdn.com/77957b67-fdd9-4c87-9c1b-aaa4d29ef382/" width="478"/></p>
+<p style="text-align: center;"><img alt="transaction" height="431" name="1 (2).svg" src="https://ucarecdn.com/77957b67-fdd9-4c87-9c1b-aaa4d29ef382/" width="478"/></p>
 <p>Frauds carry significant financial costs and risks for all stakeholders. So, the presence of an anti-fraud system is a necessity for any serious e-commerce platform.</p>
 <p>Let's implement a simple anti-fraud system consisting of one rule — <strong>heuristics</strong>. In the beginning, there's one simple measure that prevents fraudsters from illegally transferring money from an account. Suppose some scammers acquired access to confidential financial information through <strong>phishing</strong> or <strong>pharming</strong>. They immediately try to transfer as much as possible. Most of the time, the account holder is not aware of the attack. The anti-fraud system should prevent it before it is too late.</p>
 <p>In the first stage, you need to create a simple rest endpoint that calculates whether a transaction is <code class="language-json">ALLOWED</code>, <code class="language-json">PROHIBITED</code>, or requires <code class="language-json">MANUAL_PROCESSING</code> by evaluating the amount of the transaction.</p>
@@ -21,7 +21,7 @@
 <li>Transactions with a sum of lower or equal to <code class="language-json">200</code> are <code class="language-json">ALLOWED</code>;</li>
 <li>Transactions with a sum of greater than <code class="language-json">200</code> but lower or equal than <code class="language-json">1500</code> require <code class="language-json">MANUAL_PROCESSING</code>;</li>
 <li>Transactions with a sum of greater than <code class="language-json">1500</code> are <code class="language-json">PROHIBITED</code>.<br/>
-<p style="text-align: center;"><img alt="" height="594" name="image.png" src="https://ucarecdn.com/177f034f-34b4-4e25-ab4f-bb5e485ba2a1/" width="508"/></p>
+<p style="text-align: center;"><img alt="Transaction processing rules" height="594" name="image.png" src="https://ucarecdn.com/177f034f-34b4-4e25-ab4f-bb5e485ba2a1/" width="508"/></p>
 </li>
 </ol>
 <ul>
