@@ -115,6 +115,8 @@ topics:
     theory_id: 13971
   - title: Advanced exception handling in Spring Boot
     theory_id: 19855
+  - title: Data Transfer Object in Spring
+    theory_id: 25613
   - title: Web security, OWASP
     theory_id: 14755
   - title: Getting started with Spring Security
@@ -125,8 +127,6 @@ topics:
     theory_id: 15269
   - title: Spring actuator
     theory_id: 27488
-  - title: Data Transfer Object in Spring
-    theory_id: 25613
   - title: Computer programming
     theory_id: 8739
   - title: Paradigms
@@ -279,10 +279,10 @@ topics:
     theory_id: 13054
   - title: Jackson
     theory_id: 21027
-  - title: Authentication and Authorization
-    theory_id: 14219
   - title: Coupling and cohesion
     theory_id: 21478
+  - title: Authentication and Authorization
+    theory_id: 14219
   - title: Introduction to generic programming
     theory_id: 3492
   - title: Generics and Object
