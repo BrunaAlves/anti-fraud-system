@@ -5,7 +5,7 @@ options:
 - text: class
 - text: static
 - text: public
-- text: System.out.println("Hello, World!");
+- text: "System.out.println(\"Hello, World!\");"
 files:
 - name: src/Task.java
   visible: true

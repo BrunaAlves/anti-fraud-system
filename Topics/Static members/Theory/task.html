@@ -1,4 +1,5 @@
 <h2>Static members</h2>
+<div class="step-text">
 <p>All objects of a class have the same fields and methods, but the values of object fields are usually different. At the same time, a class may also have fields and methods which are common for all objects. Such fields and methods are known as <strong>static members,</strong> which are declared<strong> </strong>with<strong> </strong>the <code class="language-java">static</code> keyword.</p>
 <p>In this topic, you will learn how to use static class members. As a bonus, you will finally understand the part that the <code class="language-java">static</code> keyword plays in the declaration of the <code class="language-java">main</code> method.</p>
 <h5 id="class-variables" style="text-align: center;">Class variables</h5>
@@ -126,3 +127,4 @@ System.out.println(Physics.SPEED_OF_LIGHT); // 299792458</code></pre>
 <p>An example of a static method is the <code class="language-java">main</code> method. It should always be static.</p>
 <h5 id="conclusion" style="text-align: center;">Conclusion</h5>
 <p>In this lesson, we discussed static fields and methods and some situations where we can use them. It is important to remember that static members cannot access the values of object fields since there is no instance context (<code class="language-java">this</code>). Nonetheless, they are a good option for providing a set of common constants (together with <code class="language-java">final</code>) and utility methods for the whole project. We will consider other helpful ways of using static members in the next topics.</p>
+</div>

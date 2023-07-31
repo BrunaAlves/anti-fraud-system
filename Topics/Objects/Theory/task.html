@@ -1,4 +1,5 @@
 <h2>Objects</h2>
+<div class="step-text">
 <p>A typical object-oriented program consists of a set of interacting <strong>objects</strong>. Each object has its own state separated from others. Each object is an instance of a particular class (type) that defines common properties and possible behavior for its objects.</p>
 <p>All classes from the standard library (<strong><code class="language-java">String</code></strong>, <strong><code class="language-java">Date</code></strong>) and classes defined by programmers are <strong>reference</strong><strong> types</strong> which means that variables of these types store addresses where the actual objects are located. In this regard, the comparison and assignment operations work with objects differently than with primitive types.</p>
 <h5 id="creating-objects" style="text-align: center;">Creating objects</h5>
@@ -45,3 +46,4 @@ System.out.println(p.age); // 25</code></pre>
 <h5 id="conclusion" style="text-align: center;">Conclusion</h5>
 <p>By now, not only have we already worked with some classes from the standard library but also learned how Java allows us to create our own classes. In this topic, we've discussed that the nature of custom classes' objects and standard library ones are based on the same principles.</p>
 <p>Keep in mind, that classes defined by programmers are <strong>reference types</strong>. When objects are created by the <strong>new</strong> operator it returns a reference in memory where the created objects are located. With this reference, we can get access to fields and change them. Several variables can refer to the same object through a reference. It is also possible to create two independent objects with the same field's content. It's important to understand that references to such objects are different. However, not all objects allow changing their state after creation. Such a feature is called <strong>immutability</strong>.</p>
+</div>

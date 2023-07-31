@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.yaml:snakeyaml:1.26">
+  <library name="Gradle: org.yaml:snakeyaml:1.26" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.26/a78a8747147d2c5807683e76ec2b633e95c14fe9/snakeyaml-1.26.jar!/" />
     </CLASSES>

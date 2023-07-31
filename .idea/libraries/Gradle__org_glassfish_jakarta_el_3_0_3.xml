@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.glassfish:jakarta.el:3.0.3">
+  <library name="Gradle: org.glassfish:jakarta.el:3.0.3" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/jakarta.el/3.0.3/dab46ee1ee23f7197c13d7c40fce14817c9017df/jakarta.el-3.0.3.jar!/" />
     </CLASSES>

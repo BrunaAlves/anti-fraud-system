@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: java.lang.Throwable, java.lang.Exception
-- text: java.lang.Error, java.lang.Exception
-- text: java.lang.Problem, java.lang.Throwable
-- text: java.lang.Bug, java.lang.Problem
-- text: java.lang.Error, java.lang.Throwable
+- text: "java.lang.Throwable, java.lang.Exception"
+- text: "java.lang.Error, java.lang.Exception"
+- text: "java.lang.Problem, java.lang.Throwable"
+- text: "java.lang.Bug, java.lang.Problem"
+- text: "java.lang.Error, java.lang.Throwable"
 files:
 - name: src/Task.java
   visible: true

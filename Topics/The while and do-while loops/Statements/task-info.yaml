@@ -1,8 +1,8 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: In both loops the result of the condition may be any primitive types, for
-    example while(1) { ... }.
+- text: "In both loops the result of the condition may be any primitive types, for\
+    \ example while(1) { ... }."
 - text: The while loop can be infinite.
 - text: The do-while loop executes its body and then tests its condition.
 - text: In the while loop the first iteration is executed without a condition.

@@ -1,4 +1,5 @@
 <h2>The keyword super</h2>
+<div class="step-text">
 <p>Sometimes when we define a new subclass we need to access members or constructors of its superclass. Java provides a special keyword <code class="language-java">super</code> to do this. This keyword can be used in several cases:</p><ul><li><p>to access instance fields of the parent class;</p></li><li><p>to invoke methods of the parent class;</p></li><li><p>to invoke constructors of the parent class (no-arg or parameterized).</p></li></ul><p>Let's consider all of these cases with examples.</p><h5 id="accessing-superclass-fields-and-methods">Accessing superclass fields and methods</h5><p>The keyword <code class="language-java">super</code> can be used to access instance methods or fields of the superclass. In a sense, it is similar to the keyword <code class="language-java">this</code>, but it refers to the immediate parent class object.</p><p>The keyword <code class="language-java">super</code> is optional if members of a subclass have different names from members of the superclass. Otherwise, using <code class="language-java">super</code> is the right way to access hidden (with the same name) members of the base class.</p><p><strong>Example.</strong> There are two classes: <code class="language-java">SuperClass</code> and <code class="language-java">SubClass</code>. Each class has a field and a method.</p><pre><code class="language-java">class SuperClass {
     
     protected int field;
@@ -58,3 +59,4 @@ class Employee extends Person {
 
     // getters and setters
 }</code></pre><p>In the provided example, the constructor of the class <code class="language-java">Employee</code> invokes the parent class constructor to assign values to the passed fields. In a way, it resembles working with multiple constructors using <code class="language-java">this()</code>.</p>
+</div>

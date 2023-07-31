@@ -1,4 +1,5 @@
 <h2>Hierarchy of exceptions</h2>
+<div class="step-text">
 <p>Java is primarily an object-oriented language. In such a paradigm, all exceptions are considered objects of special classes organized into a class hierarchy. Understanding this hierarchy is essential both for job interviews and daily programming practice.</p>
 <h5 id="hierarchy-of-exceptions">Hierarchy of exceptions</h5>
 <p>The following picture illustrates the simplified hierarchy of exceptions:</p>
@@ -65,3 +66,4 @@
 <p>All exceptions are represented by the <code class="language-java">Throwable</code> class, which has two subclasses: <code class="language-java">Exception</code> and <code class="language-java">Error</code>. There are also two types of exceptions: checked and unchecked.</p>
 <p>Unchecked exceptions are not validated by the compiler, so you don't have to handle them. They are represented by the <code class="language-java">RuntimeException</code> subclass of the <code class="language-java">Exception</code> class. Errors from the <code class="language-java">Error</code> class are also considered unchecked.</p>
 <p>Checked exceptions have to be handled and indicated explicitly. They are located in all the other subclasses of <code class="language-java">Exception</code>.</p>
+</div>

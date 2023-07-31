@@ -1,4 +1,5 @@
 <h2>Constructor</h2>
+<div class="step-text">
 <p><strong>Constructors</strong> are special methods that initialize a <strong>new object </strong>of the class. A constructor of a class is invoked when an instance is created using the keyword <code class="language-java">new</code>.</p><p>A constructor is different from other methods in that:</p><ul><li><p>it has the same name as the class that contains it;</p></li><li><p>it has no return type (not even <code class="language-java">void</code>).</p></li></ul><p>Constructors initialize <strong>instances</strong> (objects) of the class. They set values to the fields when the object is created. Also, constructors can take parameters for initializing fields by the given values.</p><h5 id="using-constructors">Using constructors</h5><p>Here is a class named <code class="language-java">Patient</code>. An object of the class has a name, an age, and a height. The class has a constructor with 3 parameters to initialize objects with specific values.</p><pre><code class="language-java">class Patient {
 
     String name;
@@ -28,3 +29,4 @@ this.height = height;</code></pre><p>To initialize the fields, the keyword <code
         this.name = "Unknown";
     }
 }</code></pre><p>Such no-argument constructors are useful in cases when any default value is better than <code class="language-java">null</code>.</p><h5 id="to-sum-up">To sum up</h5><ul><li><p>Any Java class has a constructor to initialize objects;</p></li><li><p>A constructor has the same name as the class containing it;</p></li><li><p>A constructor has no return type, not even <code class="language-java">void</code>;</p></li><li><p>If a class has no explicit constructors, the Java compiler automatically provides a default no-argument constructor;</p></li><li><p>If we want to introduce new variables to denote the same thing, make the code clearer and less loaded with extra variables, the keyword <code class="language-java">this</code> is used.</p></li></ul>
+</div>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.springframework.boot:spring-boot-actuator:2.3.1.RELEASE">
+  <library name="Gradle: org.springframework.boot:spring-boot-actuator:2.3.1.RELEASE" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/2.3.1.RELEASE/6c789a148d1638514788214706809d2a9b33b681/spring-boot-actuator-2.3.1.RELEASE.jar!/" />
     </CLASSES>

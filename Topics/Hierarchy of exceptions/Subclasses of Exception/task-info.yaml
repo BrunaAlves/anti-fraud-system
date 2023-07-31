@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: IOException, Throwable
-- text: RuntimeException, StackOverflowError
-- text: Throwable, Error
-- text: IOException, RuntimeException
+- text: "IOException, Throwable"
+- text: "RuntimeException, StackOverflowError"
+- text: "Throwable, Error"
+- text: "IOException, RuntimeException"
 files:
 - name: src/Task.java
   visible: true
