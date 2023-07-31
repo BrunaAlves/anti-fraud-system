@@ -22,7 +22,7 @@ public class Main {
             if (Math.abs(numberToCheck - currentNumber) <  Math.abs(numberToCheck - lastValueAdded)) {
                 lastValueAdded = currentNumber;
                 if (!numbersOutput.isEmpty()) {
-                    numbersOutput.removeIf(n -> n == numbersOutput.get(numbersOutput.size()-1));
+                    numbersOutput.removeIf(n -> n == numbersOutput.get(numbersOutput.size() - 1));
                     numbersOutput.add(currentNumber);
                 } else {
                     numbersOutput.add(currentNumber);
